@@ -1,0 +1,6 @@
+validators
+streamlit
+langchain
+langchain_groq
+langchain_community
+yt-dlp
